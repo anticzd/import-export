@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { name, age, job } from "./namedexportmodul.js";
 import message from "./defaultexportmodul.js";
