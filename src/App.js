@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <p>
-        {name} + ima + {age} + godina i radi kao + {job}
+        {name} ima {age} godina i radi kao {job}
       </p>
 
       <p>{poruka()}</p>
